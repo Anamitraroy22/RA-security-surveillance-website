@@ -158,7 +158,7 @@
 
         <div class="product">
             <h2>Antivirus Software:</h2>
-            <img src="https://Anamitraroy22/RA-security-surveillance-website/blob/main/Antivirus1.jpg" alt="Antivirus Software Image">
+            <img src="https://github.com/Anamitraroy22/RA-security-surveillance-website/blob/f945d1bae970e910cfdae25416b43a2b23e65d09/Antivirus1.jpg"alt="Antivirus Software Image">
             <p>With the increasing sophistication of cyber threats and the prevalence of online vulnerabilities, antivirus software plays a critical role in maintaining the security and integrity of digital environments. By providing a layer of defense against malware and other cyber threats, antivirus software helps prevent data breaches, identity theft, financial fraud, and other cyber attacks, thereby preserving the confidentiality, integrity, and availability of digital assets.</p>
             <p>Pricing: ₹500/year</p>
             <a href="#" class="btn-shop-now">Get Now</a>
