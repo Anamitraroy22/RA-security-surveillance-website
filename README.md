@@ -145,7 +145,7 @@
 
 <body>
     <header>
-        <img src="C:\Users\Anamitra\Downloads\LOGO.jpg" alt="Roy-Ahamad Security Solutions Logo" class="logo">
+        <img src="https://Anamitraroy22/RA-security-surveillance-website/blob/main/LOGO.jpg" alt="Roy-Ahamad Security Solutions Logo" class="logo">
         <h1>RA Safety & Security Surveillance</h1>
     </header>
 
@@ -158,7 +158,7 @@
 
         <div class="product">
             <h2>Antivirus Software:</h2>
-            <img src="C:\Users\Anamitra\Downloads\Antivirus1.jpg" alt="Antivirus Software Image">
+            <img src="https://Anamitraroy22/RA-security-surveillance-website/blob/main/Antivirus1.jpg" alt="Antivirus Software Image">
             <p>With the increasing sophistication of cyber threats and the prevalence of online vulnerabilities, antivirus software plays a critical role in maintaining the security and integrity of digital environments. By providing a layer of defense against malware and other cyber threats, antivirus software helps prevent data breaches, identity theft, financial fraud, and other cyber attacks, thereby preserving the confidentiality, integrity, and availability of digital assets.</p>
             <p>Pricing: ₹500/year</p>
             <a href="#" class="btn-shop-now">Get Now</a>
@@ -168,7 +168,7 @@
 
         <div class="product">
             <h2>Security Personnel:</h2>
-            <img src="C:\Users\Anamitra\Downloads\security personnel1.jpg" alt="Security Personnel Image">
+            <img src="https://Anamitraroy22/RA-security-surveillance-website/blob/main/security personnel1.jpg" alt="Security Personnel Image">
             <p>Whether deployed for executive protection, residential security, retail loss prevention, or event security, private security personnel are committed to maintaining a secure and controlled environment. They may perform duties such as access control, perimeter patrols, surveillance monitoring, and emergency response coordination, depending on the specific requirements of the client and the situation.</p>
             <p>Pricing: ₹20,000-₹100,000 (Varies according to location and job of use) (minimum contract for 12 months)</p>
             <a href="#" class="btn-shop-now">Hire "RA TRAINED SECURITY" Now</a>
@@ -178,7 +178,7 @@
 
         <div class="product">
             <h2>Drone Surveillance:</h2>
-            <img src="C:\Users\Anamitra\Downloads\drone.jpg" alt="Drone Image">
+            <img src="https://Anamitraroy22/RA-security-surveillance-website/blob/main/drone.jpg" alt="Drone Image">
             <p>Equipped with high-resolution cameras and advanced imaging capabilities, drone surveillance systems capture detailed footage from vantage points inaccessible to traditional surveillance methods. This enables real-time monitoring of large areas, remote locations, and hard-to-reach areas, facilitating proactive threat detection and response.</p>
             <p>Pricing: ₹10,000 (military grade)</p>
             <a href="#" class="btn-shop-now">Shop Now</a>
@@ -186,7 +186,7 @@
 
         <div class="product">
             <h2>Camera Systems:</h2>
-            <img src="C:\Users\Anamitra\Downloads\security-camera.jpg" alt="Camera Image">
+            <img src="https://Anamitraroy22/RA-security-surveillance-website/blob/main/security-camera.jpg" alt="Camera Image">
             <p>Equipped with high-definition cameras, these systems capture crisp and clear footage, ensuring reliable identification and monitoring of activities. Whether deterring potential intruders, monitoring premises for safety compliance, or enhancing situational awareness, camera systems serve as a vital tool in bolstering security measures.</p>
             <p>Pricing: ₹2,000 (including software)</p>
             <a href="#" class="btn-shop-now">Shop Now</a>
@@ -194,7 +194,7 @@
 
         <section class="sub-section">
             <h3>Taser</h3>
-            <img src="C:\Users\Anamitra\Downloads\taser.jpg" alt="Taser Image">
+            <img src="https://Anamitraroy22/RA-security-surveillance-website/blob/main/taser.jpg" alt="Taser Image">
             <p>Featuring a handheld design, the Taser is equipped with built-in safety mechanisms and ergonomic controls for user-friendly operation. With a simple trigger activation, it delivers a series of electrical pulses that interfere with the body's neuromuscular system, causing temporary muscle contractions and incapacitating the target.</p>
             <p>Pricing: ₹1,000</p>
             <a href="#" class="btn-shop-now">Shop Now</a>
@@ -202,7 +202,7 @@
 
         <section class="sub-section">
             <h3>SOS Switch</h3>
-            <img src="C:\Users\Anamitra\Downloads\sos1.jpg" alt="SOS Switch Image">
+            <img src="https://Anamitraroy22/RA-security-surveillance-website/blob/main/sos1.jpg" alt="SOS Switch Image">
             <p>Equipped with customizable alert functionalities, the SOS switch can transmit distress signals through various communication channels, including audible alarms, visual indicators, and remote notifications. This ensures that responders are promptly notified, enabling timely intervention and assistance.</p>
             <p>Pricing: ₹200</p>
             <a href="#" class="btn-shop-now">Shop Now</a>
@@ -210,7 +210,7 @@
 
         <section class="sub-section">
             <h3>Pepper Spray</h3>
-            <img src="C:\Users\Anamitra\Downloads\ps1.jpg" alt="Pepper Spray Image">
+            <img src="https://Anamitraroy22/RA-security-surveillance-website/blob/main/ps1.jpg" alt="Pepper Spray Image">
             <p>Encased in a small canister for easy carrying, pepper spray is typically activated by pressing a button or trigger mechanism, releasing a powerful stream or mist of the irritant solution. Upon contact with the target's eyes, nose, or skin, the spray induces intense burning, pain, and temporary blindness, effectively incapacitating the attacker and allowing the user to escape from dangerous situations.</p>
             <p>Pricing: ₹100</p>
             <a href="#" class="btn-shop-now">Shop Now</a>
@@ -241,3 +241,5 @@
 </body>
 
 </html>
+
+
